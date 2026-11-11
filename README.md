@@ -23,7 +23,7 @@
 ## 🚀 Як запропонувати новий СDR?
 
 1. Ознайомтеся з [CONTRIBUTING.md](./CONTRIBUTING.md).
-2. Скопіюйте [шаблон ADR](./templates/adr-template-short.md).
+2. Скопіюйте [шаблон CDR](./templates/adr-template-short.md).
 3. Створіть новий branch у форматі `cdr/номер-короткий-опис`.
 4. Оформить PR та залучіть спільноту Craftorium до обговорення.
 
